@@ -10,7 +10,7 @@ Look for files named `id_ed25519` and `id_ed25519.pub`.
 ## 2. Generate a New SSH Key Pair
 If you don't have an existing key, generate a new one by running the following command:
 ```bash
-ssh-keygen -t ed25519 -b 4096 -C "your_email@example.com"
+ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 Make sure to replace `your_email@example.com` with your actual email address.
 

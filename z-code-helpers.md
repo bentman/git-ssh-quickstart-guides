@@ -21,11 +21,15 @@
 6. [ChatGPT](https://chat.openai.com)⁴: ChatGPT is one of the best AI coding assistants and AI code completion tools to have for any coder out there⁴. You can treat ChatGPT as a senior developer or data scientist that can help you to debug all your simple problems⁴.
 
 **References**
+
 (1) 
 [13 Best AI Coding Assistant Tools in 2023 (Most Are Free)](https://www.elegantthemes.com/blog/wordpress/best-ai-coding-assistant)
+
 (2) 
 [Top 6 AI Coding Assistants in 2023 — SitePoint](https://www.sitepoint.com/ai-coding-assistants/)
+
 (3) 
 [7 Best AI Coding Assistants to Write Code and Program Automatically](https://findnewai.com/best-ai-coding-assistants/)
+
 (4) 
 [5+ Best AI Coding Assistant Tools & AI for Coding (2023) - Any Instructor](https://anyinstructor.com/best-ai-coding-assistants/)

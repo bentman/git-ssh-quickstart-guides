@@ -1,7 +1,8 @@
 # MORE AI
 
 **[Claude](https://claude.ai/chat/)**: Claude AI is a next-generation AI assistant developed by Anthropic, an AI safety and research lab. It is based on Anthropic’s research into training helpful, honest, and harmless AI systems and is capable of a wide variety of conversational and text processing tasks while maintaining a high degree of reliability and predictability.
-***NOTE: This one handles PowerShell with ease. Gives awesome advice with explanations!***
+
+***NOTE: Claude handles PowerShell with ease. Gives awesome advice with good explanations!***
 
 **[Poe](https://poe.com/)**: Poe.com is a platform that offers various AI services, including the ability to create a bot with a prompt or an API bot1. The platform supports seven different AI models, including GPT-4.
 

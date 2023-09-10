@@ -1,4 +1,4 @@
-*** MORE AI ***
+**MORE AI**
 
 **[Claude](https://claude.ai/chat/)**: Claude AI is a next-generation AI assistant developed by Anthropic, an AI safety and research lab. It is based on Anthropic’s research into training helpful, honest, and harmless AI systems and is capable of a wide variety of conversational and text processing tasks while maintaining a high degree of reliability and predictability.
 
@@ -6,7 +6,7 @@
 
 **[AI Playground](https://sdk.vercel.ai)**: Poe.com is a platform that offers various AI services, including the ability to create a bot with a prompt or an API bot1. The platform supports seven different AI models, including GPT-4.
 
-*** CODE HELPERS ***
+**CODE HELPERS**
 
 1. [GitHub Copilot](https://github.com/features/copilot/)¹ ²: Developed by GitHub in collaboration with OpenAI, GitHub Copilot leverages OpenAI’s GPT model, which has been trained on a vast amount of publicly available code². It generates suggestions for completing code snippets, including entire lines, functions, or even multiple lines of code².
 

@@ -6,7 +6,7 @@
 
 **[Poe](https://poe.com/)**: Poe.com is a platform that offers various AI services, including the ability to create a bot with a prompt or an API bot1. The platform supports seven different AI models, including GPT-4.
 
-**[AI Playground](https://sdk.vercel.ai)**: Poe.com is a platform that offers various AI services, including the ability to create a bot with a prompt or an API bot1. The platform supports seven different AI models, including GPT-4.
+**[AI Playground](https://sdk.vercel.ai)**: Vercel AI SDK is an open-source library designed to help developers build conversational streaming user interfaces in JavaScript and TypeScript.
 
 # CODE HELPERS
 

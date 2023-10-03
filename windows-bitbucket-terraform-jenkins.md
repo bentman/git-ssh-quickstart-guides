@@ -106,3 +106,49 @@ Use VS Code to commit changes and push to Bitbucket to trigger deployments.
 
 10. **Automated Testing and Deployment**:
     - [Automating Jenkins with REST, Pipeline, and more](https://www.jenkins.io/doc/book/automating/)
+
+Here is a markdown section on security best practices for SSH keys:
+
+## SSH Security Best Practices
+
+When working with SSH keys, follow these security best practices:
+
+#### Use SSH agent forwarding
+
+- Start the SSH agent in the background:
+
+```powershell
+# Start SSH agent
+ssh-agent -s 
+
+# Add key 
+ssh-add ~\.ssh\id_ed25519
+```
+
+- Enable agent forwarding when connecting:
+
+```powershell
+ssh -A user@host
+```
+
+- This allows you to access remote hosts without copying keys.
+
+#### Avoid copying keys
+
+- Avoid copying private keys between machines.
+
+- Copy public key instead and generate keys on each host.
+
+#### Use passphrase for keys
+
+- Secure keys with a passphrase.
+
+- Prevents use of keys if compromised.
+
+#### Revoke compromised keys 
+
+- If a key is compromised, revoke it immediately.
+
+- Remove from remote hosts and regenerate.
+
+Following these best practices prevents your SSH keys from being misused if compromised.

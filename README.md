@@ -14,12 +14,13 @@ In this repository, you will find the following guides with more to be added in 
 - `new-bitbucket-repo-vscode-git-ssh.md`: A guide to creating a new Bitbucket repository from VS Code with Git Bash SSH integration.
 - `new-github-repo-vscode-git-ssh.md`: A guide to creating a new GitHub repository from VS Code with Git Bash SSH integration.
 
-## Contributions
-Contributions are welcome. Please open an issue or submit a pull request if you have any suggestions, questions, or would like to contribute to the project.
+### Contributions
 
-### GNU General Public License
-This script is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or enhancements.
 
-This script is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+### License
 
-You should have received a copy of the GNU General Public License along with this script.  If not, see <https://www.gnu.org/licenses/>.
+This script is distributed without any warranty; use at your own risk.
+This project is licensed under the GNU General Public License v3. 
+See [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html) for details.
+
